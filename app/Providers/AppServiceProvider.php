@@ -22,7 +22,6 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        LunarPanel::register();
         view()->share('currentLang', App::getLocale());
         if (config('app.env') === 'production') {
             URL::forceScheme('https');

@@ -5,7 +5,7 @@
             
             <!-- Logo & Store Hours -->
             <div class="flex flex-col sm:flex-row sm:items-center items-center space-y-4 sm:space-y-0 sm:space-x-8 w-full sm:w-auto">
-                <img src="{{ asset('images/terry-logo.webp') }}" alt="Terry's Rugs" class="h-16">
+                <img src="{{ asset('images/kip-logo.webp') }}" alt="kip's ieees" class="h-16">
                 <div>
                     <h3 class="text-lg font-bold">Store Hours</h3>
                     <div class="space-y-1 text-sm">
@@ -22,7 +22,7 @@
                 <div class="grid grid-cols-2 gap-x-6 gap-y-2 text-center sm:text-left">
                     <ul class="space-y-2">
                         <li><a href="#" class="hover:text-red-500 transition-colors">Home</a></li>
-                        <li><a href="#" class="hover:text-red-500 transition-colors">Rugs</a></li>
+                        <li><a href="#" class="hover:text-red-500 transition-colors">ieees</a></li>
                         <li><a href="#" class="hover:text-red-500 transition-colors">About</a></li>
                         <li><a href="#" class="hover:text-red-500 transition-colors">Services</a></li>
                     </ul>
@@ -58,7 +58,7 @@
 
         <!-- Copyright & Policies (Centered Below) -->
         <div class="container mx-auto px-4 py-6 text-center border-t border-gray-700 mt-6">
-            <p class="text-sm">&copy; 2025 Terry's Rugs | 
+            <p class="text-sm">&copy; 2025 kip's ieees | 
                 <a href="#" class="text-red-500 hover:underline">Return Policy</a> | 
                 <a href="#" class="text-red-500 hover:underline">Privacy Policy</a>
             </p>

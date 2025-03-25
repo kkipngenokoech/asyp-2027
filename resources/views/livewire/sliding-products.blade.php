@@ -2,21 +2,21 @@
     $deals = [
         [
             'image' => 'deal-1.webp',
-            'title' => 'Handmade Wool Rugs',
+            'title' => 'Handmade Wool ieees',
             'description' => 'Lowest Prices Ever',
             'sizes' => [],
             'id' => 1,
         ],
         [
             'image' => 'deal-2.webp',
-            'title' => 'Living Room Rugs',
+            'title' => 'Living Room ieees',
             'description' => '50 To 70% Off',
             'sizes' => ['Under $300', '5x8', '7x10', '8x11'],
             'id' => 2,
         ],
         [
             'image' => 'deal-3.webp',
-            'title' => 'Dining Room Rugs',
+            'title' => 'Dining Room ieees',
             'description' => '50 To 70% Off',
             'sizes' => ['5x8', '7x10', '8x11'],
             'id' => 3,
@@ -24,21 +24,21 @@
         [
             'image' => 'deal-4.webp',
             'title' => 'Discontinued',
-            'description' => 'High Quality Machine-Made Rugs',
+            'description' => 'High Quality Machine-Made ieees',
             'sizes' => ['3x5', '4x6', '5x8', '7x10', '8x11'],
             'id' => 4,
         ],
         [
             'image' => 'deal-5.webp',
             'title' => 'Best Sellers',
-            'description' => 'High Quality Machine-Made Rugs',
+            'description' => 'High Quality Machine-Made ieees',
             'sizes' => ['3x5', '4x6', '5x8', '7x10', '8x11'],
             'id' => 5,
         ],
         [
             'image' => 'deal-6.webp',
             'title' => 'Clearance',
-            'description' => 'High Quality Machine-Made Rugs',
+            'description' => 'High Quality Machine-Made ieees',
             'sizes' => ['3x5', '4x6', '5x8', '7x10', '8x11'],
             'id' => 6,
         ],
@@ -58,7 +58,7 @@
         </span>
         <h2 class="text-4xl font-bold text-gray-900 mb-4">Explore Our Collection</h2>
         <p class="text-gray-600 max-w-xl mx-auto">
-            Discover our handpicked selection of premium rugs, each telling its own unique story
+            Discover our handpicked selection of premium ieees, each telling its own unique story
         </p>
     </div>
 

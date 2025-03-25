@@ -5,29 +5,12 @@
        
     @endphp
 
-    {{-- @livewire('home.anniversay-banner') --}}
-
-
-
-
-        <!-- Slides -->
-
-
-        <!-- Previous & Next Buttons -->
-
-
-        <!-- Dots Navigation -->
-
-    </div>
-
-    {{-- @livewire('home.categories')--}}
-
-    <!-- Media Coverage Section -->
-    <section class="py-16 bg-red-600/5 relative overflow-hidden">
-        <!-- Decorative Elements -->
-
-
-        
-    </section>
-    {{-- <livewire:home.testimony /> --}}
+@livewire('home.homescreen')
+@livewire('home.information')
+@livewire('home.about')
+@livewire('home.speakers')
+@livewire('home.agenda')
+@livewire('home.registration')
+@livewire('home.grant')
+@livewire('home.contact')
 @endsection

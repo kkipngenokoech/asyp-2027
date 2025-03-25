@@ -24,8 +24,7 @@
     <main class="">
         @yield('content')
     </main>
-    <livewire:home.mailbox />
-    <livewire:layout.footer />
+    {{-- <livewire:layout.footer /> --}}
     @livewireScripts
 </body>
 
