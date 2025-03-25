@@ -100,43 +100,66 @@
             class="fixed inset-0 bg-white z-40 md:hidden pt-20"
         >
             <div class="container mx-auto px-6 h-full overflow-y-auto">
-                <ul class="space-y-4 py-8">
-                    @foreach ($menuItems as $label => $url)
-                        <li>
-                            <a 
-                                href="{{ $url }}" 
-                                @click="showMenu = false"
-                                class="
-                                    block 
-                                    text-2xl 
-                                    py-4 
-                                    px-4
-                                    rounded-lg
-                                    {{ $label == 'Donate' ? 'bg-red-50 text-red-600 font-semibold' : 'text-gray-800' }}
-                                    hover:bg-gray-100 
-                                    transition-all 
-                                    duration-300
-                                    flex
-                                    items-center
-                                    justify-center
-                                "
-                            >
-                                <span class="relative">
-                                    {{ $label }}
-                                    @if ($label == 'Donate')
-                                        <span class="ml-3 text-sm bg-red-100 text-red-600 px-3 py-1 rounded-full animate-pulse">
-                                            Support Us
-                                        </span>
-                                    @endif
-                                    <span class="absolute -bottom-1 left-0 w-full h-0.5 bg-blue-100 scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
-                                </span>
-                            </a>
-                        </li>
-                    @endforeach
-                </ul>
-                
+            <ul class="space-y-4 py-8">
+                @foreach ($menuItems as $label => $url)
+                <li>
+                    <a 
+                    href="{{ $url }}" 
+                    @click="showMenu = false"
+                    class="
+                        block 
+                        text-2xl 
+                        py-4 
+                        px-4
+                        rounded-lg
+                        {{ $label == 'Donate' ? 'bg-red-50 text-red-600 font-semibold' : 'text-gray-800' }}
+                        hover:bg-gray-100 
+                        transition-all 
+                        duration-300
+                        flex
+                        items-center
+                        justify-center
+                    "
+                    >
+                    <span class="relative">
+                        {{ $label }}
+                        @if ($label == 'Donate')
+                        <span class="ml-3 text-sm bg-red-100 text-red-600 px-3 py-1 rounded-full animate-pulse">
+                            Support Us
+                        </span>
+                        @endif
+                        <span class="absolute -bottom-1 left-0 w-full h-0.5 bg-blue-100 scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
+                    </span>
+                    </a>
+                </li>
+                @endforeach
+            </ul>
+            <!-- Close button for better UX -->
+            <div class="px-4 py-8 text-center">
+                <button 
+                @click="showMenu = false" 
+                class="
+                    text-gray-500 
+                    hover:text-gray-700 
+                    transition-colors 
+                    duration-300
+                    text-lg
+                    font-medium
+                    px-6
+                    py-2
+                    rounded-full
+                    border
+                    border-gray-200
+                    hover:border-gray-300
+                "
+                >
+                Close Menu
+                </button>
+            </div>
+            </div>
+        </div>
                 <!-- Close button for better UX -->
-                <div class="px-4 py-8 text-center">
+                {{-- <div class="px-4 py-8 text-center">
                     <button 
                         @click="showMenu = false" 
                         class="
@@ -156,7 +179,7 @@
                     >
                         Close Menu
                     </button>
-                </div>
+                </div> --}}
             </div>
         </div>
     </nav>
