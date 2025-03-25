@@ -13,4 +13,5 @@
 @livewire('home.registration')
 @livewire('home.grant')
 @livewire('home.contact')
+@livewire('home.footer')
 @endsection
