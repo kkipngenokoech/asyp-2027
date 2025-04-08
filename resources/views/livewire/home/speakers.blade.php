@@ -1,6 +1,6 @@
 @php
 $speakers = [
-    [
+    <!-- [
         'name' => 'John Smith',
         'image' => 'marcus8.avif',
         'bio' => 'John is a professor at University X with extensive research in AI and Robotics.'
@@ -39,7 +39,8 @@ $speakers = [
         'name' => 'Isla Davies',
         'image' => 'marcus8.avif',
         'bio' => 'Isla is a renowned speaker on the future of AI and computer vision.'
-    ]
+    ] -->
+    []
 ];
 @endphp
 
