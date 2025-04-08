@@ -65,32 +65,41 @@
 
             <!-- Day 3 -->
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <h3 class="text-2xl font-semibold text-gray-800 mb-4">Day 3: Applications & Research</h3>
+                <h3 class="text-2xl font-semibold text-gray-800 mb-4">Days 6–7: Advanced Techniques</h3>
                 <ul class="space-y-4 pl-6 list-inside text-gray-700">
                     <li class="flex items-center">
-                        <span class="text-blue-600 font-bold mr-2">🔹</span> Remote Sensing and Geospatial AI
+                        <span class="text-blue-600 font-bold mr-2">🔹</span>Autonomous Systems & Robotics Vision
                     </li>
                     <li class="flex items-center">
-                        <span class="text-blue-600 font-bold mr-2">🔹</span> Generative AI for Computer Vision
+                        <span class="text-blue-600 font-bold mr-2">🔹</span>Generative AI for Vision
                     </li>
                     <li class="flex items-center">
-                        <span class="text-blue-600 font-bold mr-2">🔹</span> Panel Discussion: Future Trends in Computer Vision
+                        <span class="text-blue-600 font-bold mr-2">🔹</span> Video Processing and Action Recognition
+                    </li>
+                    <li class="flex items-center">
+                        <span class="text-blue-600 font-bold mr-2">🔹</span> Hands-on: AI-Generated Content and Advanced CV Projects
                     </li>
                 </ul>
             </div>
 
             <!-- Day 4 -->
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <h3 class="text-2xl font-semibold text-gray-800 mb-4">Day 4: Final Projects & Closing</h3>
+                <h3 class="text-2xl font-semibold text-gray-800 mb-4">Days 8–10: Innovation, Research & Wrap-up</h3>
                 <ul class="space-y-4 pl-6 list-inside text-gray-700">
                     <li class="flex items-center">
-                        <span class="text-blue-600 font-bold mr-2">🔹</span> Group Project Presentations
+                        <span class="text-blue-600 font-bold mr-2">🔹</span>AI for Financial Inclusion and Smart Cities
                     </li>
                     <li class="flex items-center">
-                        <span class="text-blue-600 font-bold mr-2">🔹</span> Research & Career Opportunities in Computer Vision
+                        <span class="text-blue-600 font-bold mr-2">🔹</span> Startups & Sustainable AI Innovation in Africa
                     </li>
                     <li class="flex items-center">
-                        <span class="text-blue-600 font-bold mr-2">🔹</span> Closing Remarks and Networking
+                        <span class="text-blue-600 font-bold mr-2">🔹</span> Collaborative Research Models between Academia & Industry
+                    </li>
+                    <li class="flex items-center">
+                        <span class="text-blue-600 font-bold mr-2">🔹</span> Group Project Development and Proposal Writing
+                    </li>
+                    <li class="flex items-center">
+                        <span class="text-blue-600 font-bold mr-2">🔹</span> Final Day: Project Presentations, Awards, and Networking
                     </li>
                 </ul>
             </div>
