@@ -2,7 +2,7 @@
 $tabSections = [
     'about' => [
         'title' => 'About the Summer School',
-        'description' => 'The IEEE Computer Vision Summer School 2025 provides an immersive learning experience focused on deep learning for computer vision, edge AI, remote sensing applications, and ethical AI considerations. Participants will engage with leading experts, hands-on labs, and networking sessions to explore transformative industry applications.',
+        'description' => 'The IEEE Computer Vision Summer School 2026 provides an immersive learning experience focused on deep learning for computer vision, edge AI, remote sensing applications, and ethical AI considerations. Participants will engage with leading experts, hands-on labs, and networking sessions to explore transformative industry applications.',
         'features' => [
             [
                 'icon' => '<svg class="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>',
@@ -64,7 +64,7 @@ $tabSections = [
         <!-- Header -->
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-                IEEE Computer Vision Summer School 2025
+                IEEE Computer Vision Summer School 2026
             </h2>
             <div class="w-20 h-1 bg-blue-600 mx-auto"></div>
         </div>

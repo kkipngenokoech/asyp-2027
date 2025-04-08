@@ -18,7 +18,7 @@
               <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wider">Application Deadline</h3>
             </div>
             <div>
-              <p class="text-xl font-medium text-blue-600">June 15, 2025</p>
+              <p class="text-xl font-medium text-blue-600">December 31, 2025</p>
             </div>
           </div>
   

@@ -42,7 +42,7 @@
                         <path d="M12 2L2 7l10 5 10-5-10-5zm0 12l-10-5 10 5 10-5v7l-10 5z"/>
                     </svg>
                     <span class="text-xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors duration-300">
-                        IEEE CVSS 2025
+                        IEEE CVSS 2026
                     </span>
                 </a>
 

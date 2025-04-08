@@ -7,10 +7,10 @@
             <svg class="w-10 h-10 text-red-500 mr-3" fill="currentColor" viewBox="0 0 24 24">
               <path d="M12 2L2 7l10 5 10-5-10-5zm0 12l-10-5 10 5 10-5v7l-10 5z"/>
             </svg>
-            <span class="text-2xl font-bold">IEEE CVSS 2025</span>
+            <span class="text-2xl font-bold">IEEE CVSS 2026</span>
           </div>
           <p class="text-gray-300 mb-6">
-            The IEEE Computer Vision Summer School 2025 at CMU Africa brings together 
+            The IEEE Computer Vision Summer School 2026 at CMU Africa brings together 
             students and professionals to advance computer vision research in Africa.
           </p>
           <div class="flex space-x-4">
@@ -52,7 +52,7 @@
               <svg class="w-5 h-5 text-red-500 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
               </svg>
-              <span class="text-gray-300">cvss2025@cmu.edu</span>
+              <span class="text-gray-300">kipngeno.koech@ieee.org</span>
             </li>
             <li class="flex items-start">
               <svg class="w-5 h-5 text-red-500 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

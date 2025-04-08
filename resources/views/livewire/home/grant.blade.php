@@ -49,7 +49,7 @@
               <li>Submit your summer school application first</li>
               <li>Complete the separate grant application form</li>
               <li>Provide financial need documentation</li>
-              <li>Decisions announced by June 1, 2025</li>
+              <li>Decisions announced by February 1, 2026</li>
             </ol>
           </div>
   
@@ -62,7 +62,7 @@
               </svg>
             </a>
             <p class="mt-3 text-sm text-gray-600">
-              Grant applications due by May 15, 2025
+              Grant applications due by December 29, 2025
             </p>
           </div>
         </div>

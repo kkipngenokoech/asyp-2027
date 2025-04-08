@@ -3,7 +3,7 @@
         <!-- Header -->
         <div class="text-center mb-16">
             <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-5 leading-tight">
-                IEEE Computer Vision Summer School 2025
+                IEEE Computer Vision Summer School 2026
             </h2>
             <div class="w-32 h-1.5 bg-blue-600 mx-auto mb-8 rounded-full"></div>
             <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -28,7 +28,7 @@
                             </div>
                             <div>
                                 <h4 class="text-lg font-semibold mb-1">Date</h4>
-                                <p class="text-blue-100">July 15-26, 2025</p>
+                                <p class="text-blue-100">July 1-10, 2026</p>
                             </div>
                         </li>
                         <li class="flex items-start">
@@ -105,7 +105,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
-                        <p class="text-sm text-gray-500 mt-3">Application deadline: May 31, 2025</p>
+                        <p class="text-sm text-gray-500 mt-3">Application deadline: December 31, 2025</p>
                     </div>
                 </div>
             </div>

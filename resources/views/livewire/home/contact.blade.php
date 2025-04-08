@@ -19,7 +19,7 @@
               </div>
               <div>
                 <h4 class="text-sm font-medium text-gray-500 uppercase tracking-wider">Email</h4>
-                <a href="mailto:cvss2025@cmu.edu" class="text-lg text-blue-600 hover:text-blue-800">cvss2025@cmu.edu</a>
+                <a href="mailto:kipngeno.koech@ieee.org" class="text-lg text-blue-600 hover:text-blue-800">kipngeno.koech@ieee.org</a>
               </div>
             </div>
             
@@ -68,7 +68,7 @@
           
           <div class="mt-8 pt-6 border-t border-gray-200">
             <h4 class="text-sm font-medium text-gray-500 uppercase tracking-wider mb-3">Technical Support</h4>
-            <p class="text-gray-600">For website or registration issues, please contact: <a href="mailto:support@cvss2025.ieee.org" class="text-blue-600 hover:underline">cvss2025@cmu.edu</a></p>
+            <p class="text-gray-600">For website or registration issues, please contact: <a href="mailto:kipngeno.koech@ieee.org" class="text-blue-600 hover:underline">kipngeno.koech@ieee.org</a></p>
           </div>
         </div>
       </div>
