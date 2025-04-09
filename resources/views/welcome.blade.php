@@ -8,7 +8,8 @@
 @livewire('home.homescreen')
 @livewire('home.information')
 @livewire('home.about')
-@livewire('home.speakers')
+
+@livewire('home.speaker')
 @livewire('home.agenda')
 @livewire('home.registration')
 @livewire('home.grant')
