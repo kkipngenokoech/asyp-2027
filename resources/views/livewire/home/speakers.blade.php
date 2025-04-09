@@ -56,7 +56,7 @@ $speakers = [
             <div class="w-20 h-1 bg-blue-600 mx-auto mt-4"></div>
         </div>
 
-        <!-- Speakers Grid
+        {{-- <!-- Speakers Grid
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             @foreach ($speakers as $speaker)
                 <div class="bg-white rounded-lg shadow-md p-4 text-center">
@@ -65,7 +65,7 @@ $speakers = [
                     <p class="text-gray-600 text-sm">{{ $speaker['bio'] }}</p>
                 </div>
             @endforeach
-        </div> -->
+        </div> --> --}}
 
         <!-- Update message -->
         <div class="text-center mt-8 text-gray-500 text-sm">

@@ -12,6 +12,7 @@
 @livewire('home.agenda')
 @livewire('home.registration')
 @livewire('home.grant')
+@livewire('home.organizer')
 @livewire('home.contact')
 @livewire('home.footer')
 @endsection
