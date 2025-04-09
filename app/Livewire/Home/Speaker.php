@@ -23,7 +23,7 @@ class Speaker extends Component
             'image' => 'images/sampath_veeraraghavan.jpeg',
             'social' => [
                 'twitter' => null,
-                'linkedin' => null,
+                'linkedin' => 'https://www.linkedin.com/in/sampathkumar-veeraraghavan-826b1a25/',
                 'github' => null,
             ],
         ],
@@ -33,7 +33,7 @@ class Speaker extends Component
             'image' => 'images/jbarros.png',
             'social' => [
                 'twitter' => null,
-                'linkedin' => null,
+                'linkedin' => 'https://www.linkedin.com/in/jbarros1/',
                 'github' => null,
             ],
         ],
@@ -43,7 +43,7 @@ class Speaker extends Component
             'image' => 'images/assaneg.png',
             'social' => [
                 'twitter' => null,
-                'linkedin' => null,
+                'linkedin' => 'https://www.linkedin.com/in/assane-gueye-8102aa/',
                 'github' => null,
             ],
         ],
@@ -53,7 +53,7 @@ class Speaker extends Component
             'image' => 'images/mbusogi.png',
             'social' => [
                 'twitter' => null,
-                'linkedin' => null,
+                'linkedin' => 'https://www.linkedin.com/in/moise-busogi-bb6b37239/',
                 'github' => null,
             ],
         ],
