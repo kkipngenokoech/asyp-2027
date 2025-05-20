@@ -19,6 +19,18 @@ class Organizer extends Component
                 'github' => null,
             ],
         ],
+
+        [
+            'name' => 'Kip Ngeno Koech',
+            'role' => 'Researcher',
+            'description' => 'A seasoned Researcher with over 2 years of experience in the field of AI, Deep learning, and Machine learning.',
+            'image' => 'images/kkip-image.jpeg',
+            'social' => [
+                'linkedin' => 'https://www.linkedin.com/in/kkipngenokoech/',
+                'twitter' => null,
+                'github' => null,
+            ],
+        ],
        
         
     ];
