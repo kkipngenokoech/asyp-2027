@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+@layer utilities {
+  .section-heading {
+    @apply text-3xl md:text-4xl font-bold text-gray-900 mb-4;
+  }
+  .section-divider {
+    @apply w-20 h-1 bg-ieee-blue mx-auto mb-6;
+  }
+}
