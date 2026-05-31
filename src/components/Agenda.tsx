@@ -25,8 +25,9 @@ export default function Agenda() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Congress Programme</h2>
-          <div className="w-20 h-1 bg-ieee-blue mx-auto mb-6" />
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3">Tentative Congress Programme</h2>
+          <div className="w-20 h-1 bg-ieee-blue mx-auto mb-4" />
+          <span className="inline-block bg-yellow-100 text-yellow-800 text-xs font-semibold px-3 py-1 rounded-full mb-4 border border-yellow-200">Subject to change</span>
           <p className="text-lg text-gray-600">Three packed days of keynotes, workshops, networking, and cultural experiences.</p>
         </div>
 
